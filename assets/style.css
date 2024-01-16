@@ -1,9 +1,13 @@
+body{
+    background-color: rgb(207, 201, 201);
+}
+
 h1{
     display: inline-block;
     margin-top: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
 }
+
 #img_logo{
     vertical-align:middle;
     padding-bottom: 15px;
@@ -12,6 +16,29 @@ h1{
 #site_header{
     background-color: white;
     padding-left: 15px;
+    background-color: ;
 }
 
+h2{
+    display: inline;
+}
 
+.container{
+    width: 70%;
+    margin:10px auto;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+#button1{
+    background-color: cyan;
+}
+
+.editorial{
+    background-color: aqua;
+}
+
+.gr_section{
+    padding-top: 20px;
+}
