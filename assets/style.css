@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(207, 201, 201);
+    background-color: #f6f8f9;
 }
 
 h1{
@@ -29,16 +29,87 @@ h2{
     background-color: white;
     padding-left: 30px;
     padding-top: 15px;
+    padding-bottom: 25px;
+}
+#button2{
+    
+    border-radius: 5px;
 }
 
 #button1{
-    background-color: cyan;
+    background-color: #47adf1;
+    border-radius: 5px;
 }
 
-.editorial{
-    background-color: aqua;
+.color_blue{
+    background-color:#45abe9;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    padding: 6px;
+    
 }
 
 .gr_section{
     padding-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.color_purple{
+    background-color: #9c72e4;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    padding: 6px;
+}
+
+.color_marine{
+    background-color: #64c0a8;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    padding: 6px;
+}
+
+.color_orange{
+    background-color: #f29e33;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    padding: 6px;
+}
+
+.color_pink{
+    background-color: #d863a0;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    padding: 6px;
+}
+
+
+.color_green{
+    background-color: #b0c926;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    padding: 6px;
+}
+
+.b_radius{
+    color: chartreuse;
+    border: 1px solid;
+    border-radius: 15px;
+    
+}
+
+.b_radius2{
+        color: red;
+        border: 1px solid;
+        border-radius: 15px;
+}
+
+
+.mg_top{
+    margin-top: 10px;
 }
