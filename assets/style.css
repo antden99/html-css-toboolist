@@ -1,0 +1,17 @@
+h1{
+    display: inline-block;
+    margin-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#img_logo{
+    vertical-align:middle;
+    padding-bottom: 15px;
+}
+
+#site_header{
+    background-color: white;
+    padding-left: 15px;
+}
+
+
